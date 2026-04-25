@@ -1,0 +1,9 @@
+./srcs/mul8x8.v
+./srcs/mul64x64_segmented_8x8.v
+./srcs/dut_64x64_mul_wrapper.v
+./srcs/dut_64x64_axis_wrapper.v
+./verif/tb/dut_64x64_axis_wrapper_vip_pkg.sv
+./verif/tb/dut_64x64_axis_wrapper_test_pkg.sv
+./verif/tb/dut_64x64_axis_wrapper_scoreboard_pkg.sv
+./verif/tb/dut_64x64_axis_wrapper_env.sv
+./verif/tb/dut_64x64_axis_wrapper_tb.sv
